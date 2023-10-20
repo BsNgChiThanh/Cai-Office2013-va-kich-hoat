@@ -16,7 +16,7 @@
 - **Bấm phím 1**
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/assets/82578024/006b7fc2-1dee-4b66-9fb5-384d20fad417)
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/assets/82578024/5261c01b-6b1b-4c23-bfaf-ebdafc6aee29)
+- ![image](https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/assets/82578024/814a165e-aa90-4635-93bf-b3aaa4a4e7d9)
+- ![image](https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/assets/82578024/df6a976d-5042-4c17-8711-dd27b75b2fa0)
 
-
-
-
+#### DONE! ###
