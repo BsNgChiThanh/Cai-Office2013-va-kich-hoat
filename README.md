@@ -4,6 +4,8 @@
 - Download source Office 2013:
 - https://drive.massgrave.dev/SW_DVD5_Office_Professional_Plus_2013w_SP1_W32_English_MLF_X19-35821.iso
 - https://drive.massgrave.dev/SW_DVD5_Office_Professional_Plus_2013w_SP1_64Bit_English_MLF_X19-35976.iso
+- https://raw.githubusercontent.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/IMP/setupproplusretail2013x86.en-us.exe
+- https://raw.githubusercontent.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/IMP/setupproplusretail2013x64.en-us.exe
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/assets/82578024/b0b8c19a-003f-4f08-92ca-d72553a02232)
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/assets/82578024/95d6b0ff-30b9-4456-9e3a-69c88722ff84)
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat/assets/82578024/54fe79c4-9020-4573-b988-1698c0d8bb0c)
